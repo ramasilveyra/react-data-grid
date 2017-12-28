@@ -15,7 +15,7 @@
   "author": "Adazzle",
   "license": "MIT",
   "dependencies": {
-    "react-data-grid": "^2.0.78"
+    "react-data-grid": "ramasilveyra/public-registry#react-data-grid-v2.0.78-gitpkg"
   },
   "devDependencies": {
     "jquery": "^2.2.4",
